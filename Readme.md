@@ -1,5 +1,4 @@
-Olá esse projeto ensina você a usar o Git
-
+Olá, esse é um Gerador de CPF feito em python.
 
 
 
