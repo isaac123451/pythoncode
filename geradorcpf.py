@@ -28,8 +28,3 @@ print(digito_2)
 cpf_gerado = f'{nove_digitos}{digito_1}{digito_2}'
 
 print(cpf_gerado)
-
-
-
-
-
